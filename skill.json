@@ -1,0 +1,12 @@
+{
+  "name": "genpark-vision-web-action-bounding-box-grounder-skill",
+  "version": "1.0.0",
+  "description": "Grounds natural language browser instructions to precise (x, y) coordinate click bounding boxes and interactable targets.",
+  "category": "Autonomous Browser Automation & Web Agents",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-vision-web-action-bounding-box-grounder-skill",
+  "verified": true,
+  "stars": 8
+}
